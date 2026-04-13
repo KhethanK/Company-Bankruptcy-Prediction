@@ -156,7 +156,16 @@ bankruptcy-prediction/
   - Scikit-learn  
   - XGBoost, CatBoost  
   - Imbalanced-learn (SMOTE)  
-  - Matplotlib, Seaborn  
+  - Matplotlib, Seaborn
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/bankruptcy-prediction.git
+cd bankruptcy-prediction
+pip install -r requirements.txt
+
+jupyter notebook notebooks/bankruptcy_analysis.ipynb
 
 ---
 
