@@ -119,27 +119,33 @@ Given class imbalance, performance was evaluated using:
 ## 🏗️ Project Structure
 
 bankruptcy-prediction/
-│
-├── data/
-│ └── bankruptcy.csv
-│
-├── notebooks/
-│ └── bankruptcy_analysis.ipynb
-│
-├── images/
-│ └── roc_curve.png
-│
-├── models/
-│ └── trained_model.pkl
-│
-├── src/
-│ ├── preprocessing.py
-│ ├── training.py
-│ └── evaluation.py
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
+
+│  
+├── data/  
+│   └── bankruptcy.csv  
+
+│  
+├── notebooks/  
+│   └── bankruptcy_analysis.ipynb  
+
+│  
+├── images/  
+│   └── roc_curve.png  
+
+│  
+├── models/  
+│   └── trained_model.pkl  
+
+│  
+├── src/  
+│   ├── preprocessing.py  
+│   ├── training.py  
+│   └── evaluation.py  
+
+│  
+├── requirements.txt  
+├── README.md  
+└── LICENSE  
 
 ---
 
